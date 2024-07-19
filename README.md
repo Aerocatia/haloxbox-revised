@@ -8,7 +8,7 @@ The following types of changes should be expected:
 - Fix misaligned HUD elements.
 - Fix index out of bounds bugs.
 - Fix zfighting of the powerup cores.
-- Fix bitmap formats that result in lower quality bitmaps for no reason.
+- Fix bitmap formats that result in lower quality or higher memory use for no reason.
 - Restore data lost during the extraction process using the PC editing kits as a source.
 
 See the git commit history for a full list of changes.
