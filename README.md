@@ -5,10 +5,13 @@ This project does not set out to make changes that affect the playstyle or atmos
 The following types of changes should be expected:
 
 - Provide a stable universal tagset that can be used to compile custom maps for any XBE version.
+- Fix misaligned HUD elements.
 - Fix index out of bounds bugs.
 - Fix zfighting of the powerup cores.
 - Fix bitmap formats that result in lower quality bitmaps for no reason.
 - Restore data lost during the extraction process using the PC editing kits as a source.
+
+See the git commit history for a full list of changes.
 
 ## XBE version support
 Cache files (maps) can be compiled (in English) for the following game versions from these tags:
