@@ -1,4 +1,7 @@
 # Halo CE - Revised (Xbox)
+
+### This is WIP, waiting on tooling before this can be completed.
+
 The "Revised" tagset provides bug fixes and quality improvements for the tags and data of Halo: Combat Evolved for the Xbox.
 
 This project does not set out to make changes that affect the playstyle or atmosphere of the game.
